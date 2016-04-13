@@ -1,0 +1,119 @@
+/*
+Theme Name: Elite Fortaleza / WebSite
+Description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+Author: Eduardo Almeida
+Version: 1.0
+
+*/
+
+.container{
+  background-color: black !important;
+  width: 75%;
+}
+.page-header{
+  border-bottom: solid #EEE 0.5px;
+}
+.logo{
+  margin-left: 20%;
+}
+.panel-body{
+  background-color: black !important;
+  color: white;
+  color: #FFF !important;
+}
+#slides{
+  margin-top: 5%;
+  max-width: 100%;
+}
+ul, li{
+  list-style: none !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  font-size: 100% !important;
+}
+ul{
+  margin-left: 25% !important;
+}
+li{
+  margin-left: 10px !important;
+}
+li > a, li > a:link{
+  text-decoration: none !important;
+  list-style: none !important;
+  color: white !important;
+  font-style: none !important;
+}
+li > a:hover{
+  color: #0071BC !important;
+}
+.lista-box, .item-box{
+  list-style: none;
+  text-decoration: none;
+  display: inline-block;
+  
+}
+.quem-somos, .visao{
+  font-size: 200%;
+}
+.panel-empresa{
+  border: 0px !important;
+  /*color: blue !important;*/
+}
+.icon{
+  width: 10%;
+  margin-right: 3%;
+}
+.panel > .panel-heading{
+  color: black;
+  font-size: 16px;
+}
+.camara{
+  margin-left: 15%;
+}
+.investimentos > .panel > a {
+  text-decoration: none;
+  font-style: none;
+}
+.investimentos > .panel > .panel-body > img, img{
+  max-width: 100%;
+}
+blockquote{
+  color: white;
+}
+.body-imoveis{
+  background-color: #EEE !important;
+  color: black !important;
+}
+.imagem-body:hover{
+  opacity:0.30;
+  -moz-opacity: 0.65;
+  filter: alpha(opacity=65);
+  background-color: blue;
+}
+.color-white{
+  color: white;
+}
+.texto-sobre a img{
+  width: 400px; 
+  height: 200px;
+}
+.texto-sobre a .span{
+  /*width: 100%;*/
+  display: none;
+  color: white;
+  bottom: 40%;
+  font-size: 12px;
+  padding-left: 7% !important;
+}
+.texto-sobre a:hover .span {
+  position: absolute;
+  display: block;
+}
+.sem-borda{
+  border: 0px solid ;
+}
+.panel-body img{
+  width: 100%;
+  height: 250px;
+  max-width: 100%;
+}
